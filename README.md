@@ -55,5 +55,4 @@ MIT License
 
 ### 🚀 Developed by:  
 - [Ali Tavakoli](https://github.com/AliTavakoli2001)  
-- [Amir Hossein Majidi](https://github.com/Amirmj)
-
+- [Amir Hossein Majidi](https://github.com/amirhosseinmajidi)
