@@ -1,3 +1,7 @@
 tensorflow
 keras
 model base class in keras
+Input, Dense, Flatten, Reshape layer in kerass
+Mnist Data Set
+numpy library
+Matplotlib library
