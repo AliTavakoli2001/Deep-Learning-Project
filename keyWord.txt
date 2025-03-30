@@ -5,3 +5,6 @@ Input, Dense, Flatten, Reshape layer in kerass
 Mnist Data Set
 numpy library
 Matplotlib library
+relu and sigmoid activation function
+adam optimaizer
+binary crossentropy loss functoin
